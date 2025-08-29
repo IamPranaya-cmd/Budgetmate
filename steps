@@ -1,0 +1,11 @@
+//npm init -y //initializing node js
+//npm install express mongoose cors dotenv //packages required
+//Create server.js
+//Create .env file
+//Run the Backend ->node server.js
+//Create Folders
+/*In your backend folder, create 3 new folders:
+mkdir models routes controllers*/
+//Inside the models folder, create a file named Transaction.js
+//In the controllers folder, create a file called transactionController.js
+//Inside the routes folder, create a file called transactions.js
